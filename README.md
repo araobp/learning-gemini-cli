@@ -1,0 +1,3 @@
+# Learning Gemini CLI
+
+This project is used to test the capabilities of the Gemini CLI in creating web applications.
